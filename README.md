@@ -1,3 +1,3 @@
 # First-Template
-This is my first template
-This is my second line
+This is my first template.
+This is my second line.
